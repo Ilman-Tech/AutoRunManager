@@ -20,7 +20,7 @@ To use this project, you need to provide the path of the programs you want to ma
 
    Example:
 
-   ![Copy Program Path](image/target_address.png)
+   ![Copy Program Path](target_address.png)
 
 ## 2. Add the Path
 
